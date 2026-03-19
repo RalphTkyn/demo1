@@ -1,5 +1,5 @@
 package com.example.demo1;
-
+// Practicing features
 public class Vehicle {
     private String make;
     private String model;
